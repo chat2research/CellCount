@@ -1,0 +1,620 @@
+location,val
+Colorado,40200.64324
+Poland,390848.7032
+South Korea,596815.1036
+Mozambique,203489.9032
+Ireland,41089.36409
+Scotland,39230.82699
+Suriname,10149.22004
+Fukui,5038.556833
+South Sudan,65991.3494
+Tocantins,13497.66989
+West Midlands,47745.38492
+Cameroon,160374.8803
+Qatar,24278.95711
+West Sulawesi,27045.46638
+Canada,339868.2432
+Hokkaid?,31976.89623
+Seychelles,1253.389611
+Georgia,66499.25328
+Guerrero,71888.74976
+Minas Gerais,185432.4968
+Sutton,1194.04387
+West Java,639572.0065
+Hiroshima,17350.95702
+Angola,221071.3018
+Yamaguchi,9238.217236
+Romania,176840.4324
+Tlaxcala,27217.14903
+Trinidad and Tobago,53634.02058
+Thailand,777347.1623
+Vietnam,1066405.178
+Timor-Leste,10315.44066
+Italy,733221.1977
+East Asia & Pacific - WB,21480080.92
+Stockport,1849.479834
+Michigan,135177.1847
+Salford,1442.810284
+Greater London,50117.37874
+Hounslow,1673.487958
+Israel,75877.41969
+Windsor and Maidenhead,1301.971625
+South-East Asia Region,19449632.29
+Rwanda,70495.8837
+Aomori,9296.942709
+South East England,62480.59471
+Central African Republic,51767.69961
+Low SDI,8195333.37
+Syria,107988.7117
+New Zealand,29855.6363
+Global,67875691.07
+Gloucestershire,4328.538637
+Tajikistan,86202.9898
+Somalia,117900.781
+Algeria,342003.1556
+Serbia,140094.9584
+World Bank Regions,67639451.94
+Connecticut,40541.86982
+Andean Latin America,496519.4071
+Blackburn with Darwen,925.6241184
+Saudi Arabia,230512.6401
+Zambia,105698.442
+Worcestershire,4994.799171
+Central Java,589611.2576
+Doncaster,2084.875542
+Veracruz de Ignacio de la Llave,206949.9277
+North America,4206982.828
+Hidalgo,52621.92454
+European Region,8620397.912
+Paraguay,81390.42451
+Rotherham,1810.388331
+Norfolk,7443.343867
+East of England,44346.20774
+Rhode Island,12207.98403
+Cape Verde,4000.473104
+Turkmenistan,52077.0196
+Tokushima,5332.853336
+Trafford,1442.335696
+Tunisia,105024.8911
+Bahrain,23823.80268
+Oceania,272960.8296
+District of Columbia,6156.712703
+Brazil,1987864.049
+Kazakhstan,126376.4816
+Harrow,1662.731982
+"Southeast Asia, East Asia, and Oceania",20518174.72
+Southend-on-Sea,1223.972094
+Slovenia,20117.74651
+Swindon,1161.763606
+Singapore,28260.50938
+Minnesota,55030.4394
+Somerset,4282.517695
+Commonwealth,19765429.74
+United States,3866213.886
+Knowsley,1238.423656
+Europe & Central Asia - WB,8538038.128
+Hampshire,11413.39328
+Kyrgyzstan,33282.14614
+Florida,286035.9769
+Missouri,77716.49996
+Isle of Wight,1376.870131
+Latin America & Caribbean - WB,7649205.539
+North Maluku,27896.41721
+Caribbean,698906.7502
+Yamanashi,5380.730445
+"Kingston upon Hull, City of",1509.46919
+Southwark,1611.562546
+South Dakota,9958.60818
+Western Europe,3891645.72
+Mississippi,42118.23906
+North Africa and Middle East,5201509.457
+Middle SDI,21909980.52
+Democratic Republic of the Congo,644341.148
+West Berkshire,1419.479526
+Slovakia,49428.89174
+Mato Grosso do Sul,22793.85311
+Slough,984.8578153
+Croydon,2285.078012
+Enfield,1915.944641
+Staffordshire,7272.568198
+Mongolia,16068.29194
+Maluku,36589.52479
+Northamptonshire,5857.55432
+Australia,160850.9265
+Cote d'Ivoire,149880.6714
+Hammersmith and Fulham,1056.103069
+Michoacán de Ocampo,95337.20799
+Bolivia,120260.2371
+Bracknell Forest,885.5144163
+Chad,73224.26984
+Dudley,2825.185603
+Barnsley,1664.607527
+Montana,12465.53542
+Georgia,128127.6781
+Equatorial Guinea,10933.98221
+Leicestershire,4227.484768
+Peterborough,1397.48112
+Pará,68219.89258
+Eastern Mediterranean Region,6004639.186
+Newham,1606.095024
+Turkey,784339.2543
+Nagano,13546.93637
+Swaziland,22602.50485
+Milton Keynes,2053.246955
+Australasia,190706.5628
+Utah,28912.53948
+Miyagi,14375.65184
+Mato Grosso,28792.75475
+Ehime,9143.626215
+Nayarit,21166.20594
+Tennessee,90310.81103
+Zimbabwe,141214.657
+Coventry,2612.29475
+Yogyakarta,82501.61537
+Sub-Saharan Africa - WB,6641431.93
+Aichi,42733.10144
+Akita,7301.621378
+West Sussex,5819.143572
+West Sumatra,89536.51803
+Blackpool,1103.385242
+Tanzania,295107.3482
+Ecuador,169785.553
+Kagawa,6419.138779
+Iwate,8646.833679
+Hackney,1450.449075
+WHO region,67196764.74
+Yucatán,43348.62754
+The Gambia,13000.72912
+West Papua,18904.72918
+North Africa and Middle East,5201509.457
+Jalisco,163410.1452
+Fiji,54263.9978
+Morelos,49574.45026
+Malta,6836.985959
+Costa Rica,28477.34471
+Barking and Dagenham,1010.167629
+Eastern Europe,1710819.676
+Western Pacific Region,14700027.84
+Aceh,94366.0889
+East Riding of Yorkshire,2624.436889
+Luton,1306.183606
+Wales,25153.20558
+Peru,206473.6169
+Kensington and Chelsea,973.876078
+Vermont,7129.296335
+Nordic Region,273611.7043
+South Carolina,70176.51765
+Latin America and Caribbean,7054892.242
+Banten,202934.7877
+Papua,66932.92704
+Taiwan,343734.2136
+Andorra,548.2588263
+Torbay,1092.422779
+Antigua and Barbuda,1706.447549
+Delaware,13249.07327
+Telford and Wrekin,1331.571802
+North Korea,208837.8944
+Luxembourg,5784.034048
+Campeche,18965.22981
+Eastern Sub-Saharan Africa,2208054.769
+Riau,102886.0388
+Uzbekistan,378757.4013
+Congo,55366.75509
+Middle East & North Africa - WB,4002239.619
+Fukushima,12823.87287
+Cheshire West and Chester,3012.355846
+Bali,82375.8983
+East Java,715306.2689
+East Asia,10749843.02
+Stockholm,16728.18189
+China,10024097.02
+Burundi,65217.40599
+Ealing,2129.508448
+Lancashire,8008.362735
+Colombia,309867.1939
+Sudan,201056.8031
+South West England,37688.62294
+Gifu,12545.03413
+North East Lincolnshire,1187.358592
+Finland,55897.98684
+West Kalimantan,88881.61972
+Sefton,2590.507821
+Haringey,1499.999571
+Richmond upon Thames,1172.306354
+Estonia,13956.57522
+Namibia,24262.71163
+East Nusa Tenggara,74387.70678
+Northumberland,3156.776787
+Barbados,7510.95837
+Darlington,1035.295361
+Barnet,2350.114066
+The Bahamas,5854.577916
+Lebanon,87485.7707
+Arkansas,40656.3634
+Texas,299908.9595
+Stoke-on-Trent,1841.311362
+Calderdale,1358.381551
+Commonwealth High Income,1123655.519
+Belarus,63493.46548
+Kiribati,5137.14164
+York,1216.623706
+Southampton,1657.392047
+Mie,11736.72064
+Yamagata,7437.988355
+Austria,84181.12709
+Papua New Guinea,163935.4019
+El Salvador,83186.35699
+Oxfordshire,4158.916585
+European Union,4801265.938
+Alabama,72351.04243
+World Bank High Income,11652567.23
+Ibaraki,18984.59124
+Uganda,181090.6334
+Lesotho,39468.1211
+Ghana,245872.7834
+Aguascalientes,22052.2682
+California,376253.3828
+Stockton-on-Tees,1725.901226
+World Bank Lower Middle Income,28467432.02
+Bosnia and Herzegovina,74284.96222
+Paraíba,52318.93465
+Newcastle upon Tyne,2119.34128
+Plymouth,1608.694103
+Pernambuco,122960.7666
+Baja California,73522.72863
+Saga,5164.30447
+Reading,1205.034752
+Belize,5541.928142
+Islington,1273.49822
+New Jersey,105746.8865
+South Asia,14424976.95
+Southern Sub-Saharan Africa,1119020.492
+Greenland,354.6214633
+United Arab Emirates,99679.81401
+Bahia,169232.8206
+Commonwealth Middle Income,16186892.95
+West Nusa Tenggara,102954.3471
+South Asia - WB,15121472.97
+Cornwall,4201.500127
+World Bank Upper Middle Income,23219803.95
+Sinaloa,48690.90528
+North Yorkshire,4423.474571
+North East England,24191.33436
+North Sumatra,202727.7901
+Birmingham,8065.991813
+Bath and North East Somerset,973.442719
+Fukuoka,28849.97257
+Africa,8547135.421
+Shizuoka,24203.83844
+Egypt,964420.9531
+Commonwealth Low Income,2454881.27
+Netherlands,170413.8209
+Libya,81890.99934
+Afghanistan,301118.8395
+Burkina Faso,127597.0964
+Czech Republic,148899.4308
+Latvia,22716.46659
+Central Latin America,3790211.611
+OECD Countries,13970085.47
+Portugal,181197.1036
+Gabon,21969.05456
+Cumbria,5058.515771
+Bournemouth,1335.248766
+South Gloucestershire,1688.598106
+Guinea-Bissau,12561.08482
+Baja California Sur,12302.33638
+Waltham Forest,1486.845483
+Nuevo León,89184.44458
+Guinea,70281.3289
+Croatia,59245.64039
+England,388005.3566
+Greenwich,1571.439256
+Sweden,96133.77469
+Iran,805005.9238
+Marshall Islands,1494.997909
+African Region,6664477.502
+Nagasaki,8273.934938
+Liberia,28109.53355
+Lambeth,1728.108327
+Bulgaria,82977.34871
+Sweden except Stockholm,79405.5928
+Kent,9942.099692
+K?chi,4878.97677
+New Hampshire,17049.01273
+Kumamoto,11254.2289
+South Asia,14424976.95
+Zacatecas,29194.01152
+France,427483.5219
+Sandwell,2682.41909
+Guanajuato,127488.2587
+Nottingham,1766.883257
+North Tyneside,1815.474127
+Guam,2972.620959
+New Mexico,30507.88085
+Manchester,2583.540172
+Idaho,17857.85105
+Leicester,1937.855128
+Quintana Roo,29745.93215
+Federated States of Micronesia,3165.193929
+Westminster,1340.179363
+Paraná,111863.4044
+Hawaii,15038.63817
+North West England,53587.14931
+Ceará,71697.99113
+Kentucky,64744.16066
+Bermuda,900.6984781
+Iowa,34459.75039
+Virginia,100213.6904
+Alaska,7436.429
+Camden,1337.967068
+Dominican Republic,107876.8286
+Kansas,33576.10169
+Lithuania,25969.69112
+Dorset,3133.137497
+"Bristol, City of",2443.729433
+Shiga,8036.590418
+Bury,1256.851124
+New York,229776.7639
+Amapá,4737.807105
+Amazonas,26584.65106
+Jambi,60846.54225
+Coahuila,67527.22384
+Guatemala,231184.6966
+Madagascar,148713.6666
+World Bank Low Income,4299648.74
+Southeast Asia,9495370.866
+Oaxaca,77501.75149
+Spain,386397.1055
+México,376473.3529
+Lincolnshire,5804.757772
+Walsall,2526.230525
+Brent,1980.409476
+Russian Federation,1181673.794
+Solomon Islands,12877.91031
+Wolverhampton,2286.650543
+Bolton,1812.668059
+Grenada,2800.656497
+Central Kalimantan,63325.19814
+Norway,44533.61662
+North Carolina,134159.065
+Moldova,33527.14988
+Arizona,84873.08031
+Rio Grande do Norte,41852.23177
+Samoa,3432.91636
+Belgium,108229.5126
+San Luis Potosí,51284.42437
+South Sumatra,120212.9766
+Lewisham,1626.662171
+Medway,1729.435855
+Asia,39362241.08
+Derbyshire,5746.839033
+Kanagawa,52176.81939
+Indonesia,4404685.604
+Tower Hamlets,1305.034319
+Iraq,313646.0279
+Niger,91866.72633
+Sub-Saharan Africa,6392303.758
+Ky?to,15494.79189
+Nebraska,20938.78427
+Central Europe,1321058.287
+Cyprus,13864.55433
+Chiba,35870.3465
+Rio de Janeiro,223628.2981
+South Kalimantan,96188.25818
+Bengkulu,40354.28522
+Cambodia,150446.51
+Honduras,63554.36823
+Illinois,142931.5703
+Malawi,117012.8859
+Washington,77304.94247
+Hillingdon,1872.27362
+Hungary,120941.6977
+Rutland,272.9340357
+Guyana,16623.62314
+Eritrea,43049.12415
+East Sussex,3962.683999
+Leeds,4322.942736
+Bedford,1202.497606
+Central Sub-Saharan Africa,1005449.941
+Yemen,132406.5722
+Wiltshire,2875.318466
+Derby,1567.580692
+Bangladesh,1237130.989
+Europe,7868179.076
+Wakayama,6307.767613
+Niigata,15089.28558
+G20,44219708.86
+Nottinghamshire,5824.719342
+Nigeria,687297.8344
+Sheffield,3346.774252
+Acre,5439.114528
+Middlesbrough,1205.115707
+Maldives,3074.429917
+High-income,10319320.3
+Oldham,1424.368168
+South Sulawesi,134114.7366
+Botswana,28451.15752
+Piaui,34428.36323
+American Samoa,1658.597749
+?saka,55298.23379
+Rondônia,14478.02905
+?ita,7383.088557
+Region of the Americas,11757590
+T?ky?,78683.79867
+West Virginia,34729.19747
+Brighton and Hove,1657.479707
+Wirral,3090.609957
+Devon,5876.702876
+Colima,16410.78789
+Wakefield,2163.22581
+Surrey,6862.760833
+Tochigi,12249.35394
+Redcar and Cleveland,1372.618612
+Ethiopia,472111.5445
+Wandsworth,1693.119335
+African Union,8144159.923
+Denmark,74141.10277
+Oregon,46968.06974
+Pennsylvania,172136.6955
+Rochdale,1400.052544
+Wokingham,1342.630971
+Hy?go,34423.85153
+North Somerset,1575.993862
+Buckinghamshire,3138.436988
+South Africa,863021.3402
+Venezuela,357239.8293
+Jordan,83947.69128
+Southeast Sulawesi,70650.08266
+World Bank Income Levels,67639451.94
+Bromley,2209.907017
+High-income Asia Pacific,1410083.137
+Pakistan,1807040.705
+Nevada,30429.68171
+Riau Islands,27857.9108
+Albania,15857.58959
+Cuba,115623.8244
+Chiapas,98299.92907
+North Lincolnshire,1351.789136
+Indiana,90382.78519
+Central Asia,932635.6809
+Nepal,211917.3771
+Germany,744104.8693
+Bhutan,5878.757883
+Switzerland,74780.09465
+South Tyneside,1450.495524
+Uruguay,38920.11897
+Bangka-Belitung Islands,27534.74949
+Redbridge,1680.048067
+Poole,1111.014268
+Lampung,130831.866
+Gateshead,1853.462829
+Four World Regions,67534244.88
+Louisiana,63183.09078
+Armenia,52031.20836
+Maranhão,75068.43742
+Gunma,12600.77659
+St Helens,1574.938843
+United Kingdom,467133.2671
+Nara,8521.648075
+Northern Ireland,14743.87801
+Kuwait,29260.7118
+Laos,70238.48264
+Wyoming,5904.496545
+Merton,1151.580937
+High-income North America,4206510.364
+Maine,19401.48287
+Sao Tome and Principe,957.1029018
+Okinawa,7641.19627
+Distrito Federal,17705.21134
+Alagoas,44898.4722
+Nicaragua,57818.08998
+Bradford,3037.870988
+Greece,93213.98543
+Mali,104970.485
+County Durham,5006.435601
+Bexley,1614.322838
+"Virgin Islands, U.S.",2569.225806
+Morocco,402975.4974
+Mexico,2618485.673
+Gorontalo,20644.09608
+Saitama,44010.19099
+Cambridgeshire,4736.468285
+Sunderland,2564.259264
+Haiti,167984.7545
+High-middle SDI,12016316.71
+Santa Catarina,56574.2639
+Miyazaki,7074.622638
+Liverpool,3797.840783
+Warrington,1799.174261
+Mexico City,271935.5133
+Chihuahua,74723.65287
+Dominica,1508.930963
+High SDI,10945783.95
+Thurrock,977.7252493
+America,11756689.3
+Portsmouth,1569.245963
+Hartlepool,886.1580408
+Sergipe,26638.01505
+Jamaica,70317.39122
+Malaysia,238393.9269
+Ukraine,369482.5343
+East Kalimantan,69649.4026
+"Central Europe, Eastern Europe, and Central Asia",3964513.645
+Senegal,109524.0002
+Sri Lanka,392302.7507
+Azerbaijan,121340.8889
+Kenya,304815.248
+Central Sulawesi,57381.51482
+Tropical Latin America,2069254.473
+Tottori,3836.581495
+Tonga,3045.939716
+Panama,40398.05877
+Wisconsin,62828.42631
+Oklahoma,53039.10201
+North Kalimantan,11120.94218
+Kirklees,2739.856658
+Central Bedfordshire,1894.424984
+"Herefordshire, County of",1795.318003
+Yorkshire and the Humber,34842.07548
+Solihull,1785.662577
+Low-middle SDI,14572037.39
+Kagoshima,10483.53581
+Chile,162402.2054
+Shimane,4640.371716
+North Sulawesi,69675.68863
+Jakarta,158886.3453
+Hertfordshire,7304.284565
+Benin,65685.37358
+Puebla,144461.1422
+Toyama,7131.608222
+Ohio,175682.0417
+North Dakota,8437.41792
+Mauritania,25675.72343
+Sonora,58693.40617
+Essex,10278.42014
+Ishikawa,7155.269974
+Argentina,419024.7453
+Western Sub-Saharan Africa,2059778.556
+Brunei,7026.002393
+Southern Latin America,620374.5117
+Shropshire,2795.864392
+Japan,777981.5218
+Philippines,1275669.638
+Myanmar,1035132.765
+Palestine,37057.14138
+Djibouti,9387.993743
+Okayama,11936.2653
+Espírito Santo,35668.28695
+Kingston upon Thames,945.3410273
+Warwickshire,4929.517092
+Tabasco,57389.89941
+Northern Mariana Islands,1076.772107
+São Paulo,365244.5584
+Cheshire East,3444.991611
+Sierra Leone,45738.37885
+Suffolk,6581.40622
+Querétaro,36676.00989
+Rio Grande do Sul,112277.2653
+Goiás,51225.76106
+Durango,31466.56263
+Oman,38727.95858
+Macedonia,33065.87746
+Montenegro,8455.00805
+India,11163009.12
+East Midlands,33006.60835
+Togo,43139.79551
+Wigan,2168.599424
+Saint Lucia,3813.927469
+Halton,1140.0108
+Roraima,4604.698026
+Puerto Rico,96029.14173
+Tameside,1421.702563
+Iceland,2550.601871
+Saint Vincent and the Grenadines,3327.520775
+Maryland,72487.57869
+Massachusetts,69303.85507
+Mauritius,57611.77474
+Havering,1709.173893
+Comoros,6587.042172
+Vanuatu,4857.60781
+Tamaulipas,72981.51352
