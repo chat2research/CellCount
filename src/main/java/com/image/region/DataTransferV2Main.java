@@ -109,9 +109,9 @@ public class DataTransferV2Main {
         System.out.println("MinValue = " + df.format(valueMin[0]) + "\n");
 
         String worldHtml = FileUtils.readFileToString(new File(
-                "src/main/resources/region/_world.html"));
+                "src/main/resources/region/_V2world.html"));
 
-        //worldHtml = worldHtml.replace("9999999999",String.valueOf(percentValue.intValue()));
+        //worldHtml = worldHtml.replace("9999999999",String.valueOf(percentV2Value.intValue()));
 
         worldHtml = worldHtml.replace("\"COLORLIST\"", colorSb.toString());
         worldHtml = worldHtml.replace("\"COUNTRYLIST\"", countryListDataSb.toString());
